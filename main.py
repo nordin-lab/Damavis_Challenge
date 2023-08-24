@@ -28,8 +28,8 @@ def solution(labyrinth):
 
 
     visited = set()
-    q = deque()
-    q.append(((0, 0), 'H', 0))  # posición, orientación, número de movimientos
+    q = deque() 
+    q.append(((0, 0), 'H', 0))  # posición, orientación, número de movimientos - Estado Inicial
 
     while q:
         (r, c), orientation, moves = q.popleft()
