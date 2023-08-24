@@ -30,4 +30,17 @@ Se plantea un problema donde se debe recorrer con una barra de tamaño `1x3` des
 
 ---
 
+### Output
+
+```
+nordin@wsl: /mnt/c/Users/nordi/Documents/GitHub/Damavis_Challenge
+$ python3 main.py
+11 expected: 11
+-1 expected: -1
+2 expected: 2
+16 expected: 16
+```
+
+---
+
 Realizado por: Nordin El Balima Cordero
